@@ -1,0 +1,20 @@
+name: SurvivalTools
+version: '1.0'
+main: com.survivaltools.SurvivalTools
+api-version: '1.20'
+commands:
+  backpack:
+    description: Open a portable inventory
+    usage: /backpack
+  craft:
+    description: Open a portable crafting table
+    usage: /craft
+  kit:
+    description: Get starter items
+    usage: /kit
+  repair:
+    description: Fix damaged tools
+    usage: /repair
+  trash:
+    description: Open a disposal inventory
+    usage: /trash 
